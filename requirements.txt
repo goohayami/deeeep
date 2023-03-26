@@ -1,0 +1,4 @@
+streamlit==1.20.0
+requests==2.28.2
+deepl==1.14.0
+deepl-translate==1.2.0
